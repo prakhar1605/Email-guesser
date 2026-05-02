@@ -166,10 +166,3 @@ if submitted:
                 companies the founder owns this address.
                 """
             )
-
-# ---------- Footer ----------
-st.divider()
-st.caption(
-    "Built for cold outreach to YC / early-stage startups. "
-    "Run locally with `streamlit run email_guesser.py` to enable Desktop save."
-)
